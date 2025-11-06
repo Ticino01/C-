@@ -1,0 +1,15 @@
+/workspaces/C-/bin/Debug/net8.0/C-
+/workspaces/C-/bin/Debug/net8.0/C-.deps.json
+/workspaces/C-/bin/Debug/net8.0/C-.runtimeconfig.json
+/workspaces/C-/bin/Debug/net8.0/C-.dll
+/workspaces/C-/bin/Debug/net8.0/C-.pdb
+/workspaces/C-/obj/Debug/net8.0/C-.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-/obj/Debug/net8.0/C-.AssemblyInfoInputs.cache
+/workspaces/C-/obj/Debug/net8.0/C-.AssemblyInfo.cs
+/workspaces/C-/obj/Debug/net8.0/C-.csproj.CoreCompileInputs.cache
+/workspaces/C-/obj/Debug/net8.0/C-.sourcelink.json
+/workspaces/C-/obj/Debug/net8.0/C-.dll
+/workspaces/C-/obj/Debug/net8.0/refint/C-.dll
+/workspaces/C-/obj/Debug/net8.0/C-.pdb
+/workspaces/C-/obj/Debug/net8.0/C-.genruntimeconfig.cache
+/workspaces/C-/obj/Debug/net8.0/ref/C-.dll
